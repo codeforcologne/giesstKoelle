@@ -3,4 +3,4 @@ Mit dieser Web Karte kannst Du Dich über den Wasserbedarf der Bäume in Köln i
 
 Dies ist eine OpenLayers6 Anwendung. Weitere Informationen zur Installation auf:  [OpenLayers Quickstart site](https://openlayers.org/en/latest/doc/quickstart.html).
 
-[zur Karte -  Beta ](https://openmaps.online/veedel/)
+[zur Karte](https://www.giesst.koeln/)
