@@ -1,1 +1,1 @@
-Verwende Umgebungsvariablen für Datenbankzugriffe aus Sicherheitsgrübnden:  https://pypi.org/project/python-dotenv/
+Verwende Umgebungsvariablen für Datenbankzugriffe aus Sicherheitsgründen:  https://pypi.org/project/python-dotenv/
