@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import os 
 
-load_dotenv('/home/python_env/config.env')
+load_dotenv('/yourpath/.env')
 
 try:
     date_object = datetime.today()
